@@ -1,1 +1,0 @@
-# ObjectDetection-VOC
