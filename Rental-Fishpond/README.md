@@ -2,6 +2,7 @@
 
 It's a tool to help you make decision  when searching for the best rentals in areas where housing is plentiful but hard to find, such as Vancouver.
 
+The tool can be found in this [Excel Doc](./Rental%20Fishpond.xlsx).
 
 ![](./description.jpg)
 
@@ -16,8 +17,7 @@ In the `T4` area, we consider factors such as whether parking is underground or 
 
 In `T4`,  the respective points are generally set at "1", but some may be adjusted. For example, if a house doesn't include utilities while the utility fees are quite expensive, I set it at -4, as the cost is five times higher than an apartment in this regard. By the way, the unit points of those category features are mostly determined by comparing the cost to the price.
 
-In `T2`, information are the static ones, such as the address, links of the post, and move-in date. The tagged price is the price proposed in the post, while the bottom price is the compromise they to us.
+In `T2`, information are the static ones, such as the address, links of the post, and move-in date. The tagged price is the price proposed in the post, while the bottom price is the compromise they offered us.
 
 It's clear now, within the available options we got, the one with the highest `SUM POINTS`, 46, is indicated by the darkest red color in this column.
 
-The tool can be found in this [Excel Doc](./Rental%20Fishpond.xlsx).
