@@ -1,6 +1,10 @@
 # Rental Fishpond
 
-It's a tool to help you make decision  when searching for the best rentals in areas where housing is plentiful but hard to find, such as Vancouver.
+I had to move on May 1st, from a small town to a big city, which was exciting, but also meant I needed to start the heavy lifting and face all sorts of risks and expenses, including roommates, housing, moving, etc.
+
+So, I started looking for a roommate in mid to early March, which went well compared to our later search for a 2b2b (2 bedrooms and 2 bathrooms) rental situation, and she was nice. It was demanding, but luckily we found a decent one and were finally able to stop looking. In addition to my roommate's diligent scouting, the tool I made helped us a lot, allowing us to quantify the screening by finding a few diamond options out of dozens of housing choices.
+
+I believe this tool is valuable to help you make decisions when searching for the best rentals in big cities where housing is plentiful but challenging to decide with so many variables carried.
 
 The tool can be found in this [Excel Doc](./Rental%20Fishpond.xlsx).
 
